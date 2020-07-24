@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+}
+
+.form input[type='text'] {
+    flex: 11;
+    padding: 5px;
+    border-radius: 0;
+}
+
+.submitodo{
+    
+    flex: 1;
+    border-radius: 0;
+}

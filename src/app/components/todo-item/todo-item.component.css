@@ -1,0 +1,16 @@
+.btn-outline-danger{
+    float: right;
+}
+
+.is-completed {
+    text-decoration: line-through;
+}
+
+.alert {
+    margin: 0;
+}
+
+.btn:hover {
+    
+}
+
